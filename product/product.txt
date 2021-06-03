@@ -1,0 +1,28 @@
+<!DOCTYPE html>
+<html>
+<body>
+
+<h2>Product</h2>
+
+<form>
+  <label for="code">Product code:</label>
+  <input type="text" id="code" name="code"><br><br>
+  <label for="name">Product name:</label>
+  <input type="text" id="name" name="name"><br><br>
+  <label for="retail">Retail price:</label>
+  <input type="text" id="retail" name="retail"><br><br>
+  <label for="selling">Selling price:</label>
+  <input type="text" id="selling" name="selling"><br><br>
+  <label for="distributor">Distributor name:</label>
+  <input type="text" id="distributor" name="distributor"><br><br>
+  <label for="manufacture">Manufacture name:</label>
+  <input type="text" id="manufacture" name="manufacture"><br><br>
+  <label for="year">manufacturing year:</label>
+  <input type="text" id="year" name="year"><br><br>
+  <label for="expiry">Expiry date:</label>
+  <input type="text" id="expiry" name="expiry"><br><br>
+  <input type="submit" value="Submit">
+</form> 
+
+</body>
+</html>

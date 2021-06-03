@@ -1,0 +1,35 @@
+<!DOCTYPE html>
+<html>
+  <head>
+    <link href="https://cdn.jsdelivr.net/npm/bootstrap@5.0.0-beta2/dist/css/bootstrap.min.css">
+  
+  </head>
+    <body style="background-color:peachpuff">
+<body>
+
+<h2>Movie</h2>
+
+<form>
+  <label for="title">Title:</label>
+  <input type="text" id="title" name="title"><br><br>
+  <label for="actor">Actor:</label>
+  <input type="text" id="actor" name="actor"><br><br>
+  <label for="actress">Actress:</label>
+  <input type="text" id="actress" name="actress"><br><br>
+  <label for="director">Director:</label>
+  <input type="text" id="director" name="director"><br><br>
+  <label for="camera">Camera:</label>
+  <input type="text" id="camera" name="camera"><br><br>
+  <label for="producer">Producer:</label>
+  <input type="text" id="producer" name="producer"><br><br>
+  <label for="distributor">Distributor:</label>
+  <input type="text" id="distributor" name="distributor"><br><br>
+  <label for="yor">Year of release:</label>
+  <input type="text" id="yor" name="yor"><br><br>
+  <label for="language">Language:</label>
+  <input type="text" id="language" name="language"><br><br>
+  <input type="submit" value="Submit">
+</form> 
+
+</body>
+</html>
